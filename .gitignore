@@ -1,2 +1,7 @@
+#client
 client/nodes_modules
 
+#server
+
+#editor
+.idea/
