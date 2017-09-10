@@ -2,6 +2,8 @@
 client/nodes_modules
 
 #server
+server/node_modules
 
 #editor
 .idea/
+
